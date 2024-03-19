@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saad Ahmad
 - 👀 I’m interested in Devops and Cloud
-- 🌱 I’m currently learning Gitlab, Kubernetes
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Prometheus, Kubernetes
+- 📫 How to reach me saadahmad8924@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
